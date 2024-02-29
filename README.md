@@ -10,7 +10,7 @@ This project implements a RESTful API for managing product details and products.
 ## Features
 
 1. **Insert Product**
-   - Endpoint: `/api/product` (POST)
+   - Method: (POST)
    - Endpoint: `/api/products`
    - Request Body: ProductDetails JSON object
    - Response: ProductDetails JSON object
